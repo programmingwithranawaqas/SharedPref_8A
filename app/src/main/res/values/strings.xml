@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SharedPref_8A</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="enter_the_username">Enter the username</string>
+    <string name="login_here">LOGIN HERE</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here</string>
+    <string name="re_enter_the_password">Re-Enter the password</string>
+    <string name="register">Register</string>
+</resources>
